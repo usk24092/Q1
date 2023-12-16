@@ -212,14 +212,16 @@ body {
 
 .d4 h1 {
     font-weight: 800;
-    padding-left: 150px;
 }
 
 .d4 p {
     margin-top: 20px;
     color: rgb(180, 180, 180);
     font-size: medium;
+}
+.d4 img{
     padding-left: 150px;
+    
 }
 
 
