@@ -1,0 +1,290 @@
+body {
+    font-family: 'Afacad', sans-serif;
+}
+
+
+.taskiahead {
+    font-weight: 1000;
+    font-family: 'Afacad', sans-serif;
+    font-size: xx-large;
+}
+
+.taskiyabt1 {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(49, 113, 253);
+    border-radius: 25px;
+    color: rgb(90, 136, 235);
+}
+
+.taskiyabt1 h5 {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    font-size: medium;
+}
+
+.taskiyabt1:hover {
+    transition-duration: 200ms;
+    background-color: rgb(90, 136, 235);
+    color: rgb(255, 255, 255);
+    border: none;
+}
+
+.d1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.d1 h1 {
+    padding-top: 80px;
+    font-weight: 1000;
+    font-family: 'facad', sans-serif;
+}
+
+.d1 p {
+    font-size: medium;
+    color: rgb(199, 199, 199);
+}
+
+.d1 input {
+    border-radius: 35px;
+    border-color: rgb(233, 233, 233);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    font-size: large;
+    text-align: center;
+}
+
+.d1 ::-webkit-input-placeholder {
+    font-size: 20px;
+    color: rgb(189, 189, 189);
+    text-align: center;
+}
+
+.d1 button {
+    background-color: rgb(90, 136, 235);
+    border: none;
+    border-radius: 35px;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.d1 button:hover {
+    transition-duration: 200ms;
+    background-color: rgb(255, 255, 255);
+    color: rgb(90, 136, 235);
+}
+
+
+.div2 {
+    margin-top: 200px;
+}
+
+.div2 h1 {
+    font-weight: 700;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+
+.card1 {
+    background-color: rgb(90, 136, 235);
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 80px;
+    margin-right: 30px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.card1 h5 {
+    font-weight: 700;
+    color: white;
+    font-size: large;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.card1 p {
+    color: white;
+    font-size: medium;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.card2 {
+    background-color: rgb(215, 241, 237);
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.card2 h5 {
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.card2 p {
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.card3 {
+    background-color: rgb(255, 223, 187);
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.card3 h5 {
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.card3 p {
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+.d3 {
+    margin-top: 150px;
+}
+
+.d3 h1 {
+    font-weight: 800;
+}
+
+.d3 p {
+    margin-top: 20px;
+    color: rgb(180, 180, 180);
+    font-size: medium;
+}
+
+.d3 button {
+    background-color: rgb(90, 136, 235);
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: medium;
+}
+
+.d3 button:hover {
+    transition-duration: 200ms;
+    background-color: rgb(255, 255, 255);
+    color: rgb(90, 136, 235);
+}
+
+
+.d4 {
+    margin-top: 300px;
+    padding-left: 150px;
+}
+
+.d4 h1 {
+    font-weight: 800;
+}
+
+.d4 p {
+    margin-top: 20px;
+    color: rgb(180, 180, 180);
+    font-size: medium;
+}
+
+
+.d5 {
+    margin-top: 200px;
+}
+
+.d5 h1 {
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+.d5 h2 {
+    font-weight: bolder;
+    font-size: 95px;
+    padding-top: 90px;
+    color: rgb(90, 136, 235);
+    font-family: Arial, sans-serif;
+
+}
+
+.d6 {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.d6 h1 {
+    font-weight: 800;
+}
+
+.d6 p {
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.d6 input {
+    border-radius: 35px;
+    border-color: rgb(233, 233, 233);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 30%;
+    text-align: center;
+    font-size: large;
+
+}
+
+.d6 ::-webkit-input-placeholder {
+    font-size: 20px;
+    color: rgb(189, 189, 189);
+    text-align: center;
+}
+
+.d6 button {
+    background-color: rgb(90, 136, 235);
+    border: none;
+    border-radius: 35px;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.d6 button:hover {
+    transition-duration: 200ms;
+    background-color: rgb(255, 255, 255);
+    color: rgb(90, 136, 235);
+    border: none;
+}
